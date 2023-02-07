@@ -284,3 +284,29 @@ body {
     padding: 0;
     margin-left: 35px;
 }
+
+
+
+.lauguages-sidebar-titel {
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 35px;
+}
+
+.lauguages-sidebar-list {
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 50px;
+}
+
+.lauguages-sidebar-item {
+    color: #FB6D3A
+}
+
+.lauguanes-text {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
