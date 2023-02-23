@@ -14,7 +14,7 @@ body {
 .main-content {
     background-color: FFFFFF;
     box-shadow: 6px 6px 20px;
-    padding: 105px 90px;
+    padding: 85px 90px;
     background-color: #FFFFFF;
 }
 
@@ -205,12 +205,13 @@ body {
 /* sidebar styles */
 .sidebar {
     background-color: #1E2939;
-    padding-top: 40px;
+    padding-top: 20px;
     width: 370px;
 }
 
 .photo {
     width: 370px;
+    height: 400px;
     margin-bottom: 50px;
 }
 
