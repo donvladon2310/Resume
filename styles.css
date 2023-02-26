@@ -251,6 +251,16 @@ body {
     color: #FFFFFF;
 }
 
+.contact-link-location {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+
+}
+
 .tech-skills-list {
     color: #FFFFFF;
     padding: 0;
