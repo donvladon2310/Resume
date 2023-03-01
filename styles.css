@@ -47,7 +47,7 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: black;
-    width: 400px;
+
 }
 
 /* projects styles */
@@ -146,7 +146,7 @@ body {
 .work-list {
     padding: 0;
     margin-left: 15px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 
@@ -211,7 +211,7 @@ body {
 
 .photo {
     width: 370px;
-    height: 400px;
+    height: 430px;
     margin-bottom: 50px;
 }
 
