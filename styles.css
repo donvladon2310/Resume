@@ -217,12 +217,17 @@ body {
 
 .contacts,
 .tech-skills {
-    margin-left: 40px;
+
     margin-bottom: 50px;
 }
 
 .contacts {
     margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.geo {
+    margin-left: 7px;
 }
 
 .sidebar-title {
@@ -292,7 +297,7 @@ body {
 .soft-skills-list {
     color: #FFFFFF;
     padding: 0;
-    margin-left: 50px;
+
 }
 
 .soft-skills {
@@ -300,7 +305,9 @@ body {
 }
 
 .soft-skils-item {
-    color: #FB6D3A
+    color: #FB6D3A;
+    margin-left: 17px;
+
 }
 
 .soft-skils-text {
@@ -314,7 +321,7 @@ body {
 .soft-skills-sidebar-title {
     color: #FFFFFF;
     padding: 0;
-    margin-left: 35px;
+
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
@@ -327,18 +334,23 @@ body {
 
 .lauguages-sidebar-titel {
     color: #FFFFFF;
-    padding: 0;
-    margin-left: 35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+
 }
 
 .lauguages-sidebar-list {
     color: #FFFFFF;
     padding: 0;
-    margin-left: 50px;
+
 }
 
 .lauguages-sidebar-item {
-    color: #FB6D3A
+    color: #FB6D3A;
+    margin-left: 17px;
 }
 
 .lauguanes-text {
@@ -353,4 +365,8 @@ h5 {
     color: #FB6D3A;
     font-size: 16px;
     font-weight: bold;
+}
+
+.margin-left {
+    margin-left: 50px;
 }
